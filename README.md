@@ -257,6 +257,11 @@ graph TD
 - **Research Applications**: Academic studies and publications
 - **AI Literacy**: Healthcare professional AI education
 - **Case Studies**: Clinical scenario training
+##output
+![Description](report generation.jpeg)
+![Description](gradcam heatmap.jpeg)
+![Description](tumor localization.jpeg)
+![Description](brain tumor output1.jpeg)
 
 ## ⚠️ Important Disclaimers
 
