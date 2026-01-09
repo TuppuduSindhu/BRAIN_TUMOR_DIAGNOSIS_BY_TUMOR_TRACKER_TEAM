@@ -19,7 +19,7 @@
 ![Tumor Localization](tumor_localization.jpeg)
 
 ### 🔹 Brain Tumor Detection Output
-![Brain Tumor Output](brain_tumor_output1.jpeg)
+![Brain Tumor Output](brain_tumor_output1.png)
 
 ## 🌟 Key Features
 
