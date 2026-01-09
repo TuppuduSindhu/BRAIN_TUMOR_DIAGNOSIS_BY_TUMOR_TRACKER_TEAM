@@ -9,8 +9,8 @@
 > **NeuroVision AI** is a state-of-the-art web-based platform for automated brain tumor detection and classification using advanced deep learning techniques. Built with medical professionals and researchers in mind, it provides comprehensive MRI analysis with clinical-grade accuracy.
 >  ## 🖼️ Output
 
-### 🔹 Report Generation
-![Report Generation](report_generation.jpeg)
+### 🔹 Brain Tumor Detection Output
+![Brain Tumor Output](brain_tumor_output1.png)
 
 ### 🔹 Grad-CAM Heatmap
 ![Grad-CAM Heatmap](gradcam_heatmap.jpeg)
@@ -18,8 +18,13 @@
 ### 🔹 Tumor Localization
 ![Tumor Localization](tumor_localization.jpeg)
 
-### 🔹 Brain Tumor Detection Output
-![Brain Tumor Output](brain_tumor_output1.png)
+
+### 🔹 Report Generation
+![Report Generation](report_generation.jpeg)
+
+
+
+
 
 ## 🌟 Key Features
 
