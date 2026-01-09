@@ -7,6 +7,19 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 > **NeuroVision AI** is a state-of-the-art web-based platform for automated brain tumor detection and classification using advanced deep learning techniques. Built with medical professionals and researchers in mind, it provides comprehensive MRI analysis with clinical-grade accuracy.
+>  ## 🖼️ Output
+
+### 🔹 Report Generation
+![Report Generation](report_generation.jpeg)
+
+### 🔹 Grad-CAM Heatmap
+![Grad-CAM Heatmap](gradcam_heatmap.jpeg)
+
+### 🔹 Tumor Localization
+![Tumor Localization](tumor_localization.jpeg)
+
+### 🔹 Brain Tumor Detection Output
+![Brain Tumor Output](brain_tumor_output1.jpeg)
 
 ## 🌟 Key Features
 
@@ -258,10 +271,7 @@ graph TD
 - **AI Literacy**: Healthcare professional AI education
 - **Case Studies**: Clinical scenario training
 ##output
-![Description](report generation.jpeg)
-![Description](gradcam heatmap.jpeg)
-![Description](tumor localization.jpeg)
-![Description](brain tumor output1.jpeg)
+
 
 ## ⚠️ Important Disclaimers
 
